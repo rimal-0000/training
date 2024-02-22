@@ -1,0 +1,21 @@
+h2{
+    color: rgb(51, 141, 29);
+}
+@media (max-width:600px){
+    h2{
+        color:rgb(218, 76, 19);
+
+    }
+}
+.navigation{
+    align-items: center;
+    background-color:blue;
+    display:flex;
+    gap:10px;
+    Justify-content:space-between;
+}
+
+    .menu-item{
+        display:flex;
+        gap:40px;
+    }
